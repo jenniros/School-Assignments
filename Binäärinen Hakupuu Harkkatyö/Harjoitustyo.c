@@ -1,7 +1,5 @@
 /*
 
-Nimi: Jenni Aaltonen
-Opiskelijanumero: 0547016
 Käytetyt lähteet: 
 
 BM40A0301 Tietorakenteet ja algoritmit Harjoitus 7 - työpaja  
